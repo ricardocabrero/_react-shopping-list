@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /.firebase
+/.vscode
 
 # testing
 /coverage
@@ -19,8 +20,9 @@
 .env.test.local
 .env.production.local
 .firebase
-firebase.json
+
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+firebase.json
